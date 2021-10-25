@@ -1,0 +1,16 @@
+
+.anchor
+.DS_Store
+**/*.rs.bk
+node_modules
+**/build
+/target
+target/bpfel-unknown-unknown
+target/debug
+target/deploy
+target/release
+target/rls
+target/.rustc_info.json
+target/CACHEDIR.TAG
+test-ledger
+program/stable-pool/target
